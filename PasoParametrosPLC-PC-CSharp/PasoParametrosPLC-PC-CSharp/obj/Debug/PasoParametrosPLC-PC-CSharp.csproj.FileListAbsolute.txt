@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Aproyectos\c#\PasoParametrosPLC-PC-CSharp\PasoParametrosPLC-PC-CSharp\obj\Debug\PasoParametrosPLC_PC_CSharp.Main.resources
+\\Mac\Home\Documents\Aproyectos\c#\PasoParametrosPLC-PC-CSharp\PasoParametrosPLC-PC-CSharp\obj\Debug\PasoParametrosPLC_PC_CSharp.Properties.Resources.resources
+\\Mac\Home\Documents\Aproyectos\c#\PasoParametrosPLC-PC-CSharp\PasoParametrosPLC-PC-CSharp\obj\Debug\PasoParametrosPLC-PC-CSharp.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Aproyectos\c#\PasoParametrosPLC-PC-CSharp\PasoParametrosPLC-PC-CSharp\obj\Debug\PasoParametrosPLC-PC-CSharp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Aproyectos\c#\PasoParametrosPLC-PC-CSharp\PasoParametrosPLC-PC-CSharp\bin\Debug\PC-PLC.exe.config
+\\Mac\Home\Documents\Aproyectos\c#\PasoParametrosPLC-PC-CSharp\PasoParametrosPLC-PC-CSharp\bin\Debug\PC-PLC.exe
+\\Mac\Home\Documents\Aproyectos\c#\PasoParametrosPLC-PC-CSharp\PasoParametrosPLC-PC-CSharp\bin\Debug\PC-PLC.pdb
+\\Mac\Home\Documents\Aproyectos\c#\PasoParametrosPLC-PC-CSharp\PasoParametrosPLC-PC-CSharp\obj\Debug\PC-PLC.exe
+\\Mac\Home\Documents\Aproyectos\c#\PasoParametrosPLC-PC-CSharp\PasoParametrosPLC-PC-CSharp\obj\Debug\PC-PLC.pdb
